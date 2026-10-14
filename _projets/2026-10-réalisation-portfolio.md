@@ -8,7 +8,7 @@ competences: [c6]
 
 ## Contexte
 
-Pour l'épreuve E5 du BTS mais aussi pour ma recherche de stage et dans le futur de travail, j'ai besoin d'une addresse personnel qui présente mes réalisations et que je. omplète au fil de l'année, des années.
+Pour l'épreuve E5 du BTS mais aussi pour ma recherche de stage et dans le futur de travail, j'ai besoin d'une addresse personnel qui présente mes réalisations et que je complète au fil de l'année, des années.
 
 ## Conditions et moyens
 
